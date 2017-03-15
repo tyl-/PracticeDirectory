@@ -21,6 +21,7 @@ All entries will be in the following format:
 ---
 
 ### Coding Practice 001
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 - **Name:** Linked List Java
 - **Details:** Stores data in a linked list. The list is saved in a text file.
 - **Languages:** Java
