@@ -9,18 +9,18 @@ This repository will be a directory to my work.
 ## Format 
 
 All entries will be in the following format:
-###Coding Practice <Number in the format '###'>
-- **Name:** <Name of repository/program>
-- **Details:** <Short detail of program>
-- **Languages:** <Programming languages used>
-- **Started:** <Date MM/DD/YYYY>
-- **Completed:** <Date MM/DD/YYYY>
-- **Last Updated:** <Date MM/DD/YYYY>
-- **Link:** <Link to the repository>
+### Coding Practice <Number in the format '###'
+- **Name:** Name of repository/program
+- **Details:** Short detail of program
+- **Languages:** Programming languages used
+- **Started:** Date MM/DD/YYYY
+- **Completed:** MM/DD/YYYY
+- **Last Updated:** MM/DD/YYYY
+- **Link:** Link to the repository
 
 ---
 
-###Coding Practice 001
+### Coding Practice 001
 - **Name:** Linked List Java
 - **Details:** Stores data in a linked list. The list is saved in a text file.
 - **Languages:** Java
