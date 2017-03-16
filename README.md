@@ -9,7 +9,7 @@ This repository will be a directory to my work.
 ## Format 
 
 All entries will be in the following format:
-### Coding Practice '###'
+### '###'
 - **Name:** Name of repository/program
 - **Details:** Short detail of program
 - **Languages:** Programming Languages
@@ -20,8 +20,8 @@ All entries will be in the following format:
 
 ---
 
-### Coding Practice 001
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+### 001
+[![Build Status](https://travis-ci.org/tyl-/LinkedListJava.svg?branch=master)](https://travis-ci.org/tyl-/LinkedListJava) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 - **Name:** Linked List Java
 - **Details:** Explores the basic usage of linked lists.
 - **Languages:** Java
@@ -29,3 +29,13 @@ All entries will be in the following format:
 - **Completed:** 03/15/2017
 - **Last Updated:** 03/15/2017
 - **Link:** https://github.com/tyl-/LinkedListJava
+
+### 002
+[![Build Status](https://travis-ci.org/tyl-/Thermometer.svg?branch=master)](https://travis-ci.org/tyl-/Thermometer) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+- **Name:** Thermometer
+- **Details:** Thermometer simulation based on temperature. Explores Java swing GUI.
+- **Languages:** Java
+- **Started:** 03/16/2017
+- **Completed:** In Progress
+- **Last Updated:** 03/16/2017
+- **Link:** https://github.com/tyl-/Thermometer
