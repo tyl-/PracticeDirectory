@@ -36,6 +36,6 @@ All entries will be in the following format:
 - **Details:** Thermometer simulation based on temperature. Explores Java swing GUI.
 - **Languages:** Java
 - **Started:** 03/16/2017
-- **Completed:** In Progress
-- **Last Updated:** 03/16/2017
+- **Completed:** 03/17/2017
+- **Last Updated:** 03/17/2017
 - **Link:** https://github.com/tyl-/Thermometer
