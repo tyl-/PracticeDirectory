@@ -39,3 +39,13 @@ All entries will be in the following format:
 - **Completed:** 03/17/2017
 - **Last Updated:** 03/17/2017
 - **Link:** https://github.com/tyl-/Thermometer
+
+### 002
+[![Build Status](https://travis-ci.org/tyl-/Webserver.svg?branch=master)](https://travis-ci.org/tyl-/Webserver) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+- **Name:** Webserver
+- **Details:** Taking inspiration from a webserver that I created in Java, I will be port it over to C++.
+- **Languages:** C++, HTML5
+- **Started:** 03/16/2017
+- **Completed:** In Progress
+- **Last Updated:** 03/17/2017
+- **Link:** https://github.com/tyl-/Webserver
