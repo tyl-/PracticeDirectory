@@ -1,6 +1,8 @@
 # Practice Directory
 
-Beginning on March 15, 2017, I have decided to start practicing daily. I will start exploring different programming languages with the goal of having familiarity in all of them. Then transition into focusing on one or two for better mastery. 
+Started March 15, 2017. 
+
+Practicing programming in different languages.
 
 This repository will be a directory to my work.
 
@@ -46,6 +48,6 @@ All entries will be in the following format:
 - **Details:** Taking inspiration from a webserver that I created in Java, I will be trying to recreate multithreaded servers to C++.
 - **Languages:** C++, HTML5
 - **Started:** 03/17/2017
-- **Completed:** In Progress
+- **Completed:** 03/22/2017
 - **Last Updated:** 03/19/2017
 - **Link:** https://github.com/tyl-/Webserver
