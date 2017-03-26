@@ -58,6 +58,6 @@ All entries will be in the following format:
 - **Details:** Python scripts for working with excel spreadsheets for daily, monthly reports.
 - **Languages:** Python
 - **Started:** 03/26/2017
-- **Completed:** In Progress
+- **Completed:** 03/26/2017
 - **Last Updated:** 03/26/2017
 - **Link:** https://github.com/tyl-/PythonExcelScripts
