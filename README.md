@@ -2,7 +2,7 @@
 
 Started March 15, 2017. 
 
-Practicing programming in different languages.
+Practicing in different languages.
 
 This repository will be a directory to my work.
 
@@ -49,5 +49,15 @@ All entries will be in the following format:
 - **Languages:** C++, HTML5
 - **Started:** 03/17/2017
 - **Completed:** 03/22/2017
-- **Last Updated:** 03/19/2017
+- **Last Updated:** 03/22/2017
 - **Link:** https://github.com/tyl-/Webserver
+
+### 003
+[![Build Status](https://travis-ci.org/tyl-/PythonExcelScripts.svg?branch=master)](https://travis-ci.org/tyl-/PythonExcelScripts) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+- **Name:** Webserver
+- **Details:** Python scripts for working with excel spreadsheets for daily, monthly reports.
+- **Languages:** Python
+- **Started:** 03/26/2017
+- **Completed:** In Progress
+- **Last Updated:** 03/26/2017
+- **Link:** https://github.com/tyl-/PythonExcelScripts
