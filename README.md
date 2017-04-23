@@ -1,12 +1,4 @@
-# Practice Directory
-
-This repository will serve as a directory to my practice programs and projects.
-
----
-
-## Format 
-
-All entries will be in the following format:
+### All entries will be in the following format:
 ### '###'
 - **Name:** Name of repository/program
 - **Details:** Short detail of program
@@ -17,6 +9,8 @@ All entries will be in the following format:
 - **Link:** Link to the repository
 
 ---
+***
+___
 
 ### 001
 [![Build Status](https://travis-ci.org/tyl-/LinkedListJava.svg?branch=master)](https://travis-ci.org/tyl-/LinkedListJava) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
