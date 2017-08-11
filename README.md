@@ -15,7 +15,7 @@
 - **Languages:** Java
 - **Started:** 03/16/2017
 - **Completed:** 03/17/2017
-- **Last Updated:** 03/17/2017
+- **Last Updated:** 07/18/2017
 - **Link:** [Java UI Thermometer](https://github.com/tyl-/Thermometer "Java UI Thermometer")
 
 ### 003
@@ -30,10 +30,10 @@
 
 ### 004
 [![Build Status](https://travis-ci.org/tyl-/PythonExcelScripts.svg?branch=master)](https://travis-ci.org/tyl-/PythonExcelScripts) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-- **Name:** Webserver
+- **Name:** PythonExcelScripts
 - **Details:** Python scripts for working with excel spreadsheets for daily, monthly reports.
 - **Languages:** Python
 - **Started:** 03/26/2017
 - **Completed:** 03/26/2017
-- **Last Updated:** 03/26/2017
+- **Last Updated:** 08/11/2017
 - **Link:** [Python Scripts for Excel](https://github.com/tyl-/PythonExcelScripts "Python Scripts for Excel")
